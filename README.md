@@ -1,4 +1,4 @@
-# elevvo-python-internship
+
 # Elevvo Pathways — Python Programming & AI Internship
 
 **Intern:** Oluwatoyin Mathias Damilare 
